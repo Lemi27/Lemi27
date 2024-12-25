@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lemi Miyu
-- 👀 I’m interested in software engineering
+- 👀 I’m interested in software engineering and product management
 - 🌱 I’m currently learning HTML, CSS, and Javascript for full-stack development
 - 📫 How to reach me:  
   - Email: lemimiyu0@gmail.com  
