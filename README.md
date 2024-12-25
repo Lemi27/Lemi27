@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Lemi Miyu</h1>
 <h3 align="center">Software Engineering student at the University of Guelph</h3>
 
